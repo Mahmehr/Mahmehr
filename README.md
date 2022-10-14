@@ -2,7 +2,7 @@
 - 👀 I’m interested in eocnomic analysis 
 - 🌱 I’m currently learning how to work wiht R and use GitHub 
 - 💞️ I’m looking to collaborate on economic analysis 
-- 📫 How to reach me mahmeher3@hotmail.com
+- 📫 How to reach me on GitHub
 
 <!---
 Mahmehr/Mahmehr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
