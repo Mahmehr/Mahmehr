@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahmehr
 - 👀 I’m interested in eocnomic analysis 
 - 🌱 I’m currently learning how to work wiht R and use GitHub 
-- 💞️ I’m looking to collaborate on economic analysis 
+
 
 
 <!---
